@@ -14,4 +14,4 @@ To work with gherkin feature files, install the Specflow for Visual Studio 2022 
 
 
 For more info: 
-https://appium.io/docs/en/drivers/windows/
+https://github.com/microsoft/WinAppDriver/wiki/WinAppDriver-and-Appium
